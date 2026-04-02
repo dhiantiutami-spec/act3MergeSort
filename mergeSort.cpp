@@ -31,6 +31,7 @@ void input()
         cout << "Array index ke- " << i << " : ";
         cin >> arr[i];
     }
-
-
 }
+
+// create function mergeSort
+void mergeSort(int low, int high)
